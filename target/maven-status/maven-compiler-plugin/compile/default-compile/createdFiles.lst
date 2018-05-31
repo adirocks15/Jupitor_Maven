@@ -1,0 +1,9 @@
+com\jupiter\pages\Product.class
+com\jupiter\pages\ContactPage.class
+com\jupiter\interfaces\ICompareStrategy.class
+com\jupiter\pages\BasePage.class
+com\jupiter\pages\UserPage.class
+com\jupiter\pages\HomePage.class
+com\jupiter\interfaces\CompareByTitleStrategy.class
+com\jupiter\pages\ShopPage.class
+com\jupiter\pages\LoginModal.class
